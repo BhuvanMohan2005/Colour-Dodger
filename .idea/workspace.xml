@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70ad0196-2d53-40f7-a160-0faa5252d58e" name="Changes" comment="Musics added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BhuvanMohan2005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BhuvanMohan2005/Colour-Dodger",
+    "accountId": "f17f79e6-04de-4edf-a6ea-818c218547cd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yaP2hi9U9E0pz5n9GHwITnGCdj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dummy.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.temp.executor": "Run",
+    "Python.temp2.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/gunupatibhuvan/PyCharmMiscProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../New project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../New project" />
+      <recent name="$PROJECT_DIR$/../SpaceInvader" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ad0196-2d53-40f7-a160-0faa5252d58e" name="Changes" comment="" />
+      <created>1750069506120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750069506120</updated>
+      <workItem from="1750069509215" duration="7980000" />
+      <workItem from="1750140523604" duration="13414000" />
+      <workItem from="1750224700430" duration="11067000" />
+      <workItem from="1750319665745" duration="9387000" />
+      <workItem from="1750400686017" duration="3981000" />
+      <workItem from="1750417404959" duration="134000" />
+      <workItem from="1750417545410" duration="71000" />
+      <workItem from="1750417618461" duration="18305000" />
+      <workItem from="1750949824370" duration="549000" />
+      <workItem from="1750950376157" duration="70000" />
+      <workItem from="1750950447712" duration="6415000" />
+      <workItem from="1750957084289" duration="67000" />
+      <workItem from="1750957188067" duration="907000" />
+    </task>
+    <task id="LOCAL-00001" summary="Code created">
+      <option name="closed" value="true" />
+      <created>1750402655104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750402655104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Images uploaded">
+      <option name="closed" value="true" />
+      <created>1750405551832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750405551832</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Music added">
+      <option name="closed" value="true" />
+      <created>1750405573658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750405573658</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Text uploaded">
+      <option name="closed" value="true" />
+      <created>1750405590674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750405590674</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code finalized">
+      <option name="closed" value="true" />
+      <created>1750957414678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750957414678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="background image">
+      <option name="closed" value="true" />
+      <created>1750958142613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750958142613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Musics added">
+      <option name="closed" value="true" />
+      <created>1750958159465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750958159465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code created" />
+    <MESSAGE value="Images uploaded" />
+    <MESSAGE value="Music added" />
+    <MESSAGE value="Text uploaded" />
+    <MESSAGE value="Code finalized" />
+    <MESSAGE value="background image" />
+    <MESSAGE value="Musics added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Musics added" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpaceInvader$main.coverage" NAME="main Coverage Results" MODIFIED="1750100276702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SpaceInvader" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$temp2.coverage" NAME="temp2 Coverage Results" MODIFIED="1750957105429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$temp.coverage" NAME="temp Coverage Results" MODIFIED="1750956487765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$dummy.coverage" NAME="dummy Coverage Results" MODIFIED="1750956745477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$new.coverage" NAME="new Coverage Results" MODIFIED="1750426611660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../New project" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$main.coverage" NAME="main Coverage Results" MODIFIED="1750957194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
