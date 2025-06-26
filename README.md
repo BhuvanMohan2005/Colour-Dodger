@@ -9,7 +9,7 @@
 **Color Swap Dodger** is an addictive color-matching reflex game where you control a glowing orb that can swap between 4 vibrant neon shades.  
 Your goal? Match the orb's color with falling blocks by pressing `SPACE` — or it’s Game Over!
 
-Built as a solo 10-day challenge, this arcade-style game features:
+Built as a arcade-style game with features:
 - Dynamic obstacles
 - Vibrant neon visuals
 - Sound effects & music
@@ -20,8 +20,6 @@ Built as a solo 10-day challenge, this arcade-style game features:
 ## 📸 Screenshot
 
 ![Gameplay Preview](screenshot.png)
-
-> *(Tip: Take a screenshot of your game while running and name it `screenshot.png` in your repo)*
 
 ---
 
