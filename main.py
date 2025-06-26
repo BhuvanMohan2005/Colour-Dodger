@@ -112,7 +112,7 @@ while running:
 
     if game_state == "menu":
         title_text = font.render("Color Swap Dodger", True, pygame.Color("white"))
-        start_text = font.render("Press ENTER to Start", True, pygame.Color("white"))
+        start_text = font.render("Press ENTER to Start", True, pygame.Color("yellow"))
         instr_text = font.render("SPACE = Switch Color | P = Pause", True, pygame.Color("cyan"))
 
         screen.blit(title_text, (WIDTH // 2 - title_text.get_width() // 2, HEIGHT // 2 - 80))
@@ -127,7 +127,7 @@ while running:
 
     elif game_state == "game_over":
         over_text = font.render("GAME OVER", True, pygame.Color("red"))
-        score_text = font.render(f"Score: {score}", True, pygame.Color("white"))
+        score_text = font.render(f"Score: {score}", True, pygame.Color("gold"))
         retry_text = font.render("Press R to Restart | M for Menu", True, pygame.Color("white"))
 
         screen.blit(over_text, (WIDTH // 2 - over_text.get_width() // 2, HEIGHT // 2 - 60))
